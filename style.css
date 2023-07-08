@@ -16,7 +16,7 @@ body {
     padding: 10px 20px;
 }
 
-/* Nave Related Styles */
+/* Nav Related Styles */
 nav {
     display: flex;
     justify-content: space-between;
@@ -39,4 +39,15 @@ nav li {
 nav a {
     text-decoration: none;
     color: #474747;
+}
+
+/* Header Related Styles */
+.header {
+    background: #fff8f3;
+}
+.banner {
+    display: flex;
+}
+.profile-pic {
+    height: 600px;
 }
